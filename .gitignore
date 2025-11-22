@@ -350,6 +350,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+aiimageenv/
 env.bak/
 venv.bak/
 
